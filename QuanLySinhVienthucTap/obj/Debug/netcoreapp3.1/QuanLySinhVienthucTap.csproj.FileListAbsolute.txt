@@ -1,0 +1,15 @@
+C:\Users\lthhn\source\repos\QuanLySinhVienthucTap\QuanLySinhVienthucTap\bin\Debug\netcoreapp3.1\QuanLySinhVienthucTap.exe
+C:\Users\lthhn\source\repos\QuanLySinhVienthucTap\QuanLySinhVienthucTap\bin\Debug\netcoreapp3.1\QuanLySinhVienthucTap.deps.json
+C:\Users\lthhn\source\repos\QuanLySinhVienthucTap\QuanLySinhVienthucTap\bin\Debug\netcoreapp3.1\QuanLySinhVienthucTap.runtimeconfig.json
+C:\Users\lthhn\source\repos\QuanLySinhVienthucTap\QuanLySinhVienthucTap\bin\Debug\netcoreapp3.1\QuanLySinhVienthucTap.runtimeconfig.dev.json
+C:\Users\lthhn\source\repos\QuanLySinhVienthucTap\QuanLySinhVienthucTap\bin\Debug\netcoreapp3.1\QuanLySinhVienthucTap.dll
+C:\Users\lthhn\source\repos\QuanLySinhVienthucTap\QuanLySinhVienthucTap\bin\Debug\netcoreapp3.1\QuanLySinhVienthucTap.pdb
+C:\Users\lthhn\source\repos\QuanLySinhVienthucTap\QuanLySinhVienthucTap\obj\Debug\netcoreapp3.1\QuanLySinhVienthucTap.csprojAssemblyReference.cache
+C:\Users\lthhn\source\repos\QuanLySinhVienthucTap\QuanLySinhVienthucTap\obj\Debug\netcoreapp3.1\QuanLySinhVienthucTap.Form1.resources
+C:\Users\lthhn\source\repos\QuanLySinhVienthucTap\QuanLySinhVienthucTap\obj\Debug\netcoreapp3.1\QuanLySinhVienthucTap.csproj.GenerateResource.cache
+C:\Users\lthhn\source\repos\QuanLySinhVienthucTap\QuanLySinhVienthucTap\obj\Debug\netcoreapp3.1\QuanLySinhVienthucTap.AssemblyInfoInputs.cache
+C:\Users\lthhn\source\repos\QuanLySinhVienthucTap\QuanLySinhVienthucTap\obj\Debug\netcoreapp3.1\QuanLySinhVienthucTap.AssemblyInfo.cs
+C:\Users\lthhn\source\repos\QuanLySinhVienthucTap\QuanLySinhVienthucTap\obj\Debug\netcoreapp3.1\QuanLySinhVienthucTap.csproj.CoreCompileInputs.cache
+C:\Users\lthhn\source\repos\QuanLySinhVienthucTap\QuanLySinhVienthucTap\obj\Debug\netcoreapp3.1\QuanLySinhVienthucTap.dll
+C:\Users\lthhn\source\repos\QuanLySinhVienthucTap\QuanLySinhVienthucTap\obj\Debug\netcoreapp3.1\QuanLySinhVienthucTap.pdb
+C:\Users\lthhn\source\repos\QuanLySinhVienthucTap\QuanLySinhVienthucTap\obj\Debug\netcoreapp3.1\QuanLySinhVienthucTap.genruntimeconfig.cache
